@@ -47,7 +47,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 
 		<div id="myElement">Paste the url and click the generate button.</div>
 
-		<div><?php if($iframeid){echo '<textarea style="margin:10px;width: 97%;height: 80px;">http://gdriveplayer.herokuapp.com/embed.php?url='.$iframeid.'</textarea>';}?></div>
+		<div><?php if($iframeid){echo '<textarea style="margin:10px;width: 97%;height: 80px;">http://blogurl-gonime.herokuapp.com/embed.php?url='.$iframeid.'</textarea>';}?></div>
 
 	</div>
 
@@ -79,7 +79,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 				   
 	</script>
         <br><br>
-	<center><h4>By Haznini Armita | Since 2017</h4></center>
+	<center><h4>By Anas-Bex | Since 2022</h4></center>
 	<center><h4>We Do Not Host And Upload Any Video</h4></center>
 </body>
 </html>
