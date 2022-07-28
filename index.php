@@ -44,10 +44,12 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 			<input type="submit" value="Generate" name="submit" />
 		</form>
 		<br/>
+		
+//https://anasbex-player-v1.herokuapp.com/gonime.php?//
 
 		<div id="myElement">Paste the url and click the generate button.</div>
 
-		<div><?php if($iframeid){echo '<textarea style="margin:10px;width: 97%;height: 80px;">http://blogurl-gonime.herokuapp.com/embed.php?url='.$iframeid.'</textarea>';}?></div>
+		<div><?php if($iframeid){echo '<textarea style="margin:10px;width: 97%;height: 80px;">http://anasbex-player-v1.herokuapp.com/gonime.php?url='.$iframeid.'</textarea>';}?></div>
 
 	</div>
 
